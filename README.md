@@ -1,7 +1,8 @@
 # GuildWorx
+A simple, decentralized, evolvable, and 100% secure governance system written in Solidity to run on the Ethereum blockchain. 
 
 ## Mission
-A simple, decentralized, evolvable, and 100% secure governance system written in Solidity to run on the Ethereum blockchain. We are on a mission to foster and support our collective Guild of talented, technical, and tolerant entrepreneurs by engaging the wisdom of the crows in a way which only blockchains allow.
+We are on a mission to foster and support our collective Guild of talented, technical, and tolerant entrepreneurs by engaging the wisdom of the crows in a way which only blockchains allow.
 
 ## Goals and Objectives
 ### Attract non-Technical Entrepreneurial Support Network
